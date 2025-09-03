@@ -1,0 +1,15 @@
+country,Code,Year,Moderate heat,Extreme heat
+Australia,AUS,2015,0.14,0.32
+Brazil,BRA,2015,0.48,0.22
+Canada,CAN,2015,0.27,0.26
+China,CHN,2015,0.24,0.4
+Italy,ITA,2015,0.94,0.67
+Japan,JPN,2015,0.13,0.18
+South Korea,KOR,2015,0.1,0.21
+Spain,ESP,2015,0.54,0.52
+Sweden,SWE,2015,0.03,0.15
+Taiwan,TWN,2015,0.6,0.25
+Thailand,THA,2015,0.47,0.28
+United Kingdom,GBR,2015,0.07,0.22
+United States,USA,2015,0.14,0.21
+Total,total,2015,0.19,0.23
